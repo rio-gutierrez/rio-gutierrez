@@ -6,5 +6,5 @@ My academic background is in both pure and applied/computational mathematics ♾
 
 - 🔭 I’m currently working on setting up initial data for a system of more than two black holes
 - 🌱 I’m currently learning about neural networks and machine learning algorithms, as well as improving my Italian :it:
-- 📨 How to reach me: Drop me an email at gutierrez.m101587@gmail.com
+- 📨 How to reach me: Drop me an email at mariogutierrezabed@gmail.com
 - ⚡ Fun fact: Besides beging a tech and science nerd, I am also a huge fan of sports ⚽️ and of video games 🎮 (PCMR for life 😝)
