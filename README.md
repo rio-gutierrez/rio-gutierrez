@@ -11,10 +11,10 @@ const mario = {
   field_of_study: [mathematical modeling, computational physics, numerical relativity], 
   institution: Rochester Institute of Technology,
   coding_skills: [C, C++, Python, Matlab, Mathematica, Java, Javascript, HTML, CSS],
-  languages spoken: {
-                        native:  "English", "Spanish",
+  spoken_languages: {
+                        native:       "English", "Spanish",
                         intermediate: "Italian",
-                        beginner: "German"
+                        beginner:     "German"
                       }
 }
 ```
