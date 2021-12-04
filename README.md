@@ -1,4 +1,5 @@
 ### Hi, I'm Mario 👋 Thank you for visiting my profile!
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 I was born and raised in Cuba 🇨🇺 and have also lived in the US :us: and the UK :uk: I love learning about new cultures and traveling; I have visited more than 30 countries 🌍 and I expect the list to grow 😉
 
