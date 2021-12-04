@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
 [![Linkedin: mariogutierrez](https://img.shields.io/badge/-mariogutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-gutierrez-abed/)](https://www.linkedin.com/in/mario-gutierrez-abed/)
-
 [![GitHub rio-gutierrez](https://img.shields.io/github/followers/rio-gutierrez?label=follow&style=social)](https://github.com/rio-gutierrez)
+[![MyWebpage mariogutierrez](https://img.shields.io/badge/-MyWebpage-yellowgreen?style=flat-square&logo=superuser&logoColor=white&link=https://rio-gutierrez.github.io)(https://rio-gutierrez.github.io)
 
 - 🔭 I’m currently working on setting up initial data with spectral convergence for a system of more than two black holes
 - 🌱 I’m currently learning about neural networks and machine learning algorithms, as well as improving my Italian :it:
