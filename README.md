@@ -12,10 +12,10 @@ const mario = {
   institution: Rochester Institute of Technology,
   coding_skills: [C, C++, Python, Matlab, Mathematica, Java, Javascript, HTML, CSS],
   spoken_languages: {
-                        native:       "English", "Spanish",
-                        intermediate: "Italian",
-                        beginner:     "German"
-                      }
+                      native:       "English", "Spanish",
+                      intermediate: "Italian",
+                      beginner:     "German"
+                    }
 }
 ```
 
