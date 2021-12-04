@@ -8,9 +8,9 @@
 ```javascript
 const mario = {
   occupation: PhD researcher,
-  field of study: [mathematical modeling, computational physics, numerical relativity], 
+  field_of_study: [mathematical modeling, computational physics, numerical relativity], 
   institution: Rochester Institute of Technology,
-  coding skills: [C, C++, Python, Matlab, Mathematica, Java, Javascript, HTML, CSS],
+  coding_skills: [C, C++, Python, Matlab, Mathematica, Java, Javascript, HTML, CSS],
   languages spoken: {
                         native:  "English", "Spanish",
                         intermediate: "Italian",
