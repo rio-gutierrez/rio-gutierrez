@@ -5,6 +5,20 @@
 [![GitHub rio-gutierrez](https://img.shields.io/github/followers/rio-gutierrez?label=follow&style=social)](https://github.com/rio-gutierrez)
 [![GitHub rio-gutierrez](https://img.shields.io/badge/-MyWebpage-yellowgreen?style=flat-square&logo=superuser&logoColor=white&link=https://rio-gutierrez.github.io)](https://rio-gutierrez.github.io)
 
+```javascript
+const mario = {
+  occupation: PhD researcher,
+  field of study: [mathematical modeling, computational physics, numerical relativity], 
+  institution: Rochester Institute of Technology,
+  coding skills: [C, C++, Python, Matlab, Mathematica, Java, Javascript, HTML, CSS],
+  languages spoken: {
+                        native:  "English", "Spanish",
+                        intermediate: "Italian",
+                        beginner: "German"
+                      }
+}
+```
+
 - 🔭 I’m currently working on setting up initial data with spectral convergence for a system of more than two black holes
 - 🌱 I’m currently learning about neural networks and machine learning algorithms, as well as improving my Italian :it:
 - 📨 How to reach me: Drop me an email at mariogutierrezabed@gmail.com
