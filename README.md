@@ -1,4 +1,4 @@
-### Hi, I'm Mario 👋 Thank you for visiting my profile!
+### Hi, I'm Mario 👋 Welcome to my GitHub!
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
 [![Linkedin: mariogutierrez](https://img.shields.io/badge/-mariogutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-gutierrez-abed/)](https://www.linkedin.com/in/mario-gutierrez-abed/)
