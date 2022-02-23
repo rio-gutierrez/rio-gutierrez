@@ -20,6 +20,6 @@ const mario = {
 ```
 
 - 🔭 I’m currently working on setting up initial data with spectral convergence for a system of more than two black holes
-- 🌱 Transitioning from scientific computing to software development/engineering, as well as improving my Italian :it:
+- 🌱 Transitioning from scientific computing to software engineering, as well as improving my Italian :it:
 - 📨 How to reach me: Drop me an email at mariogutierrezabed@gmail.com
 - ⚡ Fun fact: Besides being a tech and science nerd, I am also a huge fan of sports ⚽️ and of video games 🎮
