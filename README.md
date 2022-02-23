@@ -10,7 +10,7 @@ const mario = {
   occupation: PhD researcher,
   field_of_study: [mathematical modeling, high performance computing, computational physics, numerical relativity], 
   institution: Rochester Institute of Technology,
-  coding_skills: [C, C++, Python, Matlab, Mathematica, SQL, C#/.NET, Java],
+  coding_skills: [C, C++, Python, Java, Docker, SQL, MongoDB],
   spoken_languages: {
                       native: "English", "Spanish",
                       intermediate: "Italian",
