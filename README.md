@@ -7,9 +7,9 @@
 
 ```javascript
 const mario = {
-  occupation: PhD researcher,
-  field_of_study: [mathematical modeling, high performance computing, computational physics, numerical relativity], 
-  institution: Rochester Institute of Technology,
+  occupation: Full-stack software engineer,
+  stack: [Java, Spring, Javascript, React], 
+  institution: Mindex,
   coding_skills: [C, C++, Python, Java, Docker, SQL, MongoDB],
   spoken_languages: {
                       native: "English", "Spanish",
