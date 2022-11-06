@@ -7,8 +7,8 @@
 
 ```javascript
 const mario = {
-  occupation: Full-stack software engineer,
-  stack: [Java, Spring, Javascript, React], 
+  occupation: Software engineer,
+  stack: [Spring, Angular, Openshift, Apache Kafka], 
   institution: Mindex,
   coding_skills: [C, C++, Python, Java, Docker, SQL, MongoDB],
   spoken_languages: {
@@ -19,7 +19,8 @@ const mario = {
 }
 ```
 
-- 🔭 I’m currently working on setting up initial data with spectral convergence for a system of more than two black holes
-- 🌱 Transitioning from scientific computing to software engineering, as well as improving my Italian :it:
+
+- 🌱 Currently working as a software engineer, in an Agile environment.
+- 🔭 In the past I did research (PhD studies) on computational astrophysics and High Performnce Computing (HPC). My reseaech was focused on setting up initial data with spectral convergence for a system of more than two black holes
 - 📨 How to reach me: Drop me an email at mariogutierrezabed@gmail.com
 - ⚡ Fun fact: Besides being a tech and science nerd, I am also a huge fan of sports ⚽️ and of video games 🎮
