@@ -7,7 +7,7 @@
 
 ```javascript
 const mario = {
-  occupation: Software engineer,
+  occupation: Software_Engineer,
   stack: [Spring, Angular, Openshift, Apache Kafka], 
   institution: Mindex,
   coding_skills: [C, C++, Python, Java, Docker, SQL, MongoDB],
