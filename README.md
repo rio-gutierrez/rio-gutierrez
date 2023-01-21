@@ -8,9 +8,9 @@
 ```javascript
 const mario = {
   occupation: Software_Engineer,
-  stack: [Spring, Angular, Openshift, Apache Kafka], 
+  stack: [Java, Spring, Spring Boot, Spring Cloud, Jenkins, Docker, Openshift, Kubernetes, Apache Kafka], 
   institution: Mindex,
-  coding_skills: [C, C++, Python, Java, Docker, SQL, MongoDB],
+  coding_skills: [Java, C, C++, Python, Docker, SQL, MongoDB],
   spoken_languages: {
                       native: "English", "Spanish",
                       intermediate: "Italian",
