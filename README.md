@@ -7,12 +7,13 @@
 
 ```javascript
 const mario = {
-  occupation: Software_Engineer,
-  stack: [Java, Spring, Spring Boot, Spring Cloud, Jenkins, Docker, Openshift, Kubernetes, Apache Kafka], 
-  institution: Mindex,
-  coding_skills: [Java, C, C++, Python, Docker, SQL, MongoDB],
+  occupation: "Software Engineer",
+  programming_languages: [Java, C, C++, Python, Javascript, Typescript], 
+  frameworks: [Spring, NodeJS, React, Angular],
+  tools: [Git, Jenkins, Kafka, Docker, Kubernetes, Openshift],
+  misc: [Mathematical Modeling, Data Analysis, Visualization, SQL, MongoDB],
   spoken_languages: {
-                      native: "English", "Spanish",
+                      native: ["English", "Spanish"],
                       intermediate: "Italian",
                       beginner: "German"
                     }
