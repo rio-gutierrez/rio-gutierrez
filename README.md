@@ -8,7 +8,7 @@
 ```javascript
 const mario = {
   occupation: "Software Engineer",
-  programming_languages: [Java, C, C++, Python, Javascript, Typescript], 
+  programming_languages: [Java, Swift, C, C++, Python, Javascript, Typescript], 
   frameworks: [Spring, NodeJS, React, Angular],
   tools: [Git, Jenkins, Kafka, Docker, Kubernetes, Openshift],
   misc: [Mathematical Modeling, Data Analysis, Visualization, SQL, MongoDB],
@@ -23,5 +23,5 @@ const mario = {
 
 - 🌱 Currently working as a software engineer, in an Agile environment.
 - 🔭 In the past I did research (PhD studies) on computational astrophysics and High Performance Computing (HPC). My research was focused on setting up initial data with spectral convergence for a system of more than two black holes
-- 📨 How to reach me: Drop me an email at mariogutierrezabed@gmail.com
+- 📨 How to reach me: Drop me an email at ml.gutierrezabed@gmail.com
 - ⚡ Fun fact: Besides being a tech and science nerd, I am also a huge fan of sports ⚽️ and of video games 🎮
