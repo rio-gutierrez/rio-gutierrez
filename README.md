@@ -8,10 +8,9 @@
 ```javascript
 const mario = {
   occupation: "Software Engineer",
-  programming_languages: [Java, Swift, C, C++, Python, Javascript, Typescript], 
-  frameworks: [Spring, React, NextJS, NodeJS],
-  tools: [Git, Jenkins, Kafka, Docker, Kubernetes, Openshift],
-  misc: [Mathematical Modeling, Data Analysis, Visualization, SQL, MongoDB],
+  programming_languages: [Java, Swift, Javascript, Typescript, C, C++, Python], 
+  frameworks: [Spring, NextJS],
+  misc: [Git, Jenkins, Kafka, Docker, Kubernetes,  SQL, MongoDB],
   spoken_languages: {
                       native: ["English", "Spanish"],
                       intermediate: "Italian",
