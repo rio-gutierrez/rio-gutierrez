@@ -9,7 +9,7 @@
 const mario = {
   occupation: "Software Engineer",
   programming_languages: [Java, Swift, Javascript, Typescript, C, C++, Python], 
-  frameworks: [Spring, NextJS],
+  frameworks: [Spring, NextJS, SwiftUI, UIKit],
   misc: [Git, Jenkins, Kafka, Docker, Kubernetes,  SQL, MongoDB],
   spoken_languages: {
                       native: ["English", "Spanish"],
@@ -20,7 +20,7 @@ const mario = {
 ```
 
 
-- 🌱 Currently working as a full-stack software engineer.
+- 🌱 Currently working as a full-stack software engineer and aspiring to become an iOS developer.
 - 🔭 In the past I did research (PhD studies) on computational astrophysics and High Performance Computing (HPC). My research was focused on setting up initial data with spectral convergence for a system of more than two black holes
 - 📨 How to reach me: Drop me an email at ml.gutierrezabed@gmail.com
 - ⚡ Fun fact: Besides being a tech and science nerd, I am also a huge fan of sports ⚽️ and of video games 🎮
