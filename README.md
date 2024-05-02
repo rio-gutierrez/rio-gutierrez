@@ -22,5 +22,5 @@ const mario_luis = {
 
 - 🌱 Currently working as a freelance iOS developer.
 - 🔭 In the past I have worked as a Java backend engineer for a large enterprise corporation. Moreoever, I have conducted research (PhD studies) on computational astrophysics and High Performance Computing (HPC). My research was focused on setting up initial data with spectral convergence for a system of more than two black holes
-- 📨 How to reach me: Find more info about me, including how to reach me, over at [https://marioluis.dev](https://mario_luis.dev)
+- 📨 How to reach me: Find more info about me, including how to reach me, over at [https://marioluis.dev](https://marioluis.dev)
 - ⚡ Fun fact: Besides being a tech and science nerd, I am also a huge fan of sports ⚽️ and of video games 🎮
